@@ -2,6 +2,8 @@
 
 ## Overview
 
+This is a mod for the game of Don't Starve Together which is available in the Steam Workshop. 
+
 Anenemy won't attack players anymore and is able to change the damage and reset period, which is configurable.
 
 ## Changelog
