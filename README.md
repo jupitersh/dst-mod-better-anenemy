@@ -21,4 +21,4 @@ Anenemy won't attack players anymore and is able to change the damage and reset 
 
 ## License
 
-Released under the (GNU GENERAL PUBLIC LICENSE)[https://www.gnu.org/licenses/gpl-3.0.en.html]
+Released under the [GNU GENERAL PUBLIC LICENSE](https://www.gnu.org/licenses/gpl-3.0.en.html)
